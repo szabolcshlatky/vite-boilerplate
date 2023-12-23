@@ -1,0 +1,9 @@
+@use 'indexStyles/brand' as *;
+@use 'indexStyles/reset' as *;
+@use 'indexStyles/globals' as *;
+@use 'indexStyles/buttons' as *;
+@use 'indexStyles/brand' as *;
+
+html {
+  font-family: 'Montserrat', sans-serif;
+}
